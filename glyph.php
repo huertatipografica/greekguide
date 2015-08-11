@@ -16,7 +16,7 @@ $textoPrueba = '';
 foreach ($fonts as $fuente){
 	$nombre_fuente=substr($fuente, 0, -4);
 	$thumbsBig.='<div class="thumbBig" style="font-family:\''.$nombre_fuente.'\', AdobeBlank">'.$char.'<label>'.$nombre_fuente.'</label></div>'."\n";
-	$thumbsWord.='<div class="thumbWord" style="font-family:\''.$nombre_fuente.'\', AdobeBlank">'.'<span class="dyntext">'.$char.'कagnv</span><label>'.$nombre_fuente.'</label></div>'."\n";
+	$thumbsWord.='<div class="thumbWord" style="font-family:\''.$nombre_fuente.'\', AdobeBlank">'.'<span class="dyntext">'.$char.'αεηιμρagnv</span><label>'.$nombre_fuente.'</label></div>'."\n";
 }
 
 #Array of words from dictionary
@@ -90,7 +90,7 @@ $(function() {
 	<div id="left">
 		<div class="container">
 
-			<a href="index.php"><< Menu</a><br /><br />
+			<a href="index.php"><< BACK</a><br /><br />
 			<table id="data" cellpading=0 cellspacing=0>
 				<tr><th>Categoria</th><td><? echo $glifo['categoria']?></td></tr>
 				<tr><th>Subcategoría</th><td><? echo $glifo['subcategoria']?></td></tr>
@@ -114,7 +114,7 @@ $(function() {
 			</div>
 
 			<div id="inputtext">
-				Change preview: <input id="slide" type="text" value="<? echo $char.'कagnv' ?>"
+				Change preview: <input id="slide" type="text" value="<? echo $char.'αεηιμρagnv' ?>"
 				onchange="updateText(this.value);" />
 			</div>
 
