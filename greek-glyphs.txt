@@ -53,7 +53,7 @@
 03C9|omega|Letter|Lowercase|GREEK SMALL LETTER OMEGA
 0384|tonos|Mark|Spacing|GREEK TONOS
 0385|dieresistonos|Mark|Spacing|GREEK DIALYTIKA TONOS
-0387|anoteleia|Punctuation|GREEK ANO TELEIA
+0387|anoteleia|Punctuation|None|GREEK ANO TELEIA
 0386|Alphatonos|Letter|Uppercase|GREEK CAPITAL LETTER ALPHA WITH TONOS
 0388|Epsilontonos|Letter|Uppercase|GREEK CAPITAL LETTER EPSILON WITH TONOS
 0389|Etatonos|Letter|Uppercase|GREEK CAPITAL LETTER ETA WITH TONOS
@@ -78,15 +78,15 @@
 0371|heta|Letter|Lowercase|GREEK SMALL LETTER HETA
 0372|Archaicsampi|Letter|Uppercase|GREEK CAPITAL LETTER ARCHAIC SAMPI
 0373|archaicsampi|Letter|Lowercase|GREEK SMALL LETTER ARCHAIC SAMPI
-0374|numeral-greek|Symbol|Modifier|GREEK NUMERAL SIGN
-0375|lowernumeral-greek|Symbol|Modifier|GREEK LOWER NUMERAL SIGN
+0374|numeral-greek|Symbol|None|Modifier|GREEK NUMERAL SIGN
+0375|lowernumeral-greek|Symbol|None|Modifier|GREEK LOWER NUMERAL SIGN
 0376|Pamphyliandigamma|Letter|Uppercase|GREEK CAPITAL LETTER PAMPHYLIAN DIGAMMA
 0377|pamphyliandigamma|Letter|Lowercase|GREEK SMALL LETTER PAMPHYLIAN DIGAMMA
 037A|ypogegrammeni|Letter|Modifier|GREEK YPOGEGRAMMENI
-037B|sigmaLunateReversedSymbol|Letter|Lowercase|GREEK SMALL REVERSED LUNATE SIGMA SYMBOL
-037C|sigmaLunateDottedSymbol|Letter|Lowercase|GREEK SMALL DOTTED LUNATE SIGMA SYMBOL
-037D|sigmaLunateDottedReversedSymbol|Letter|Lowercase|GREEK SMALL REVERSED DOTTED LUNATE SIGMA SYMBOL
-037E|questiongreek|Punctuation|GREEK QUESTION MARK
+037B|sigmaLunateReversedSymbol|None|Letter|Lowercase|GREEK SMALL REVERSED LUNATE SIGMA SYMBOL
+037C|sigmaLunateDottedSymbol|None|Letter|Lowercase|GREEK SMALL DOTTED LUNATE SIGMA SYMBOL
+037D|sigmaLunateDottedReversedSymbol|None|Letter|Lowercase|GREEK SMALL REVERSED DOTTED LUNATE SIGMA SYMBOL
+037E|questiongreek|Punctuation|None|GREEK QUESTION MARK
 037F|Yot|Letter|Uppercase|GREEK CAPITAL LETTER YOT
 03D8|KoppaArchaic|Letter|Uppercase|GREEK LETTER ARCHAIC KOPPA
 03D9|koppaArchaic|Letter|Lowercase|GREEK SMALL LETTER ARCHAIC KOPPA
@@ -98,31 +98,31 @@
 03DF|koppa|Letter|Lowercase|GREEK SMALL LETTER KOPPA
 03E0|Sampi|Letter|Uppercase|GREEK LETTER SAMPI
 03E1|sampi|Letter|Lowercase|GREEK SMALL LETTER SAMPI
-03CF|KaiSymbol|Letter|Uppercase|GREEK CAPITAL KAI SYMBOL
-03D7|kaiSymbol|Letter|Lowercase|GREEK KAI SYMBOL
-03D0|betaSymbol|Letter|Lowercase|GREEK BETA SYMBOL
-03D1|thetaSymbol|Letter|Lowercase|GREEK THETA SYMBOL
-03D2|UpsilonhookSymbol|Letter|Uppercase|GREEK UPSILON WITH HOOK SYMBOL
-03D3|UpsilonacutehookSymbol|Letter|Uppercase|GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
-03D4|UpsilondieresishookSymbol|Letter|Uppercase|GREEK UPSILON WITH DIAERESIS AND HOOK SYMBOL
-03D5|phiSymbol|Letter|Lowercase|GREEK PHI SYMBOL
-03D6|piSymbol|Letter|Lowercase|GREEK PI SYMBOL
-03F0|kappaSymbol|Letter|Lowercase|GREEK KAPPA SYMBOL
-03F1|rhoSymbol|Letter|Lowercase|GREEK RHO SYMBOL
-03F2|sigmaLunateSymbol|Letter|Lowercase|GREEK LUNATE SIGMA SYMBOL
+03CF|KaiSymbol|None|Letter|Uppercase|GREEK CAPITAL KAI SYMBOL
+03D7|kaiSymbol|None|Letter|Lowercase|GREEK KAI SYMBOL
+03D0|betaSymbol|None|Letter|Lowercase|GREEK BETA SYMBOL
+03D1|thetaSymbol|None|Letter|Lowercase|GREEK THETA SYMBOL
+03D2|UpsilonhookSymbol|None|Letter|Uppercase|GREEK UPSILON WITH HOOK SYMBOL
+03D3|UpsilonacutehookSymbol|None|Letter|Uppercase|GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+03D4|UpsilondieresishookSymbol|None|Letter|Uppercase|GREEK UPSILON WITH DIAERESIS AND HOOK SYMBOL
+03D5|phiSymbol|None|Letter|Lowercase|GREEK PHI SYMBOL
+03D6|piSymbol|None|Letter|Lowercase|GREEK PI SYMBOL
+03F0|kappaSymbol|None|Letter|Lowercase|GREEK KAPPA SYMBOL
+03F1|rhoSymbol|None|Letter|Lowercase|GREEK RHO SYMBOL
+03F2|sigmaLunateSymbol|None|Letter|Lowercase|GREEK LUNATE SIGMA SYMBOL
 03F3|yot|Letter|Lowercase|GREEK LETTER YOT
-03F4|ThetaSymbol|Letter|Uppercase|GREEK CAPITAL THETA SYMBOL
-03F5|epsilonLunateSymbol|Letter|Lowercase|GREEK LUNATE EPSILON SYMBOL
-03F6|epsilonLunateReversedSymbol|Symbol|Math|GREEK REVERSED LUNATE EPSILON SYMBOL
+03F4|ThetaSymbol|None|Letter|Uppercase|GREEK CAPITAL THETA SYMBOL
+03F5|epsilonLunateSymbol|None|Letter|Lowercase|GREEK LUNATE EPSILON SYMBOL
+03F6|epsilonLunateReversedSymbol|None|Symbol|None|Math|GREEK REVERSED LUNATE EPSILON SYMBOL
 03F7|Sho|Letter|Uppercase|GREEK CAPITAL LETTER SHO
 03F8|sho|Letter|Lowercase|GREEK SMALL LETTER SHO
-03F9|SigmaLunateSymbol|Letter|Uppercase|GREEK CAPITAL LUNATE SIGMA SYMBOL
+03F9|SigmaLunateSymbol|None|Letter|Uppercase|GREEK CAPITAL LUNATE SIGMA SYMBOL
 03FA|San|Letter|Uppercase|GREEK CAPITAL LETTER SAN
 03FB|san|Letter|Lowercase|GREEK SMALL LETTER SAN
-03FC|rhoStrokeSymbol|Letter|Lowercase|GREEK RHO WITH STROKE SYMBOL
-03FD|SigmaLunateReversedSymbol|Letter|Uppercase|GREEK CAPITAL REVERSED LUNATE SIGMA SYMBOL
-03FE|SigmaLunateDottedSymbol|Letter|Uppercase|GREEK CAPITAL DOTTED LUNATE SIGMA SYMBOL
-03FF|SigmaLunateDottedReversedSymbol|Letter|Uppercase|GREEK CAPITAL REVERSED DOTTED LUNATE SIGMA SYMBOL
+03FC|rhoStrokeSymbol|None|Letter|Lowercase|GREEK RHO WITH STROKE SYMBOL
+03FD|SigmaLunateReversedSymbol|None|Letter|Uppercase|GREEK CAPITAL REVERSED LUNATE SIGMA SYMBOL
+03FE|SigmaLunateDottedSymbol|None|Letter|Uppercase|GREEK CAPITAL DOTTED LUNATE SIGMA SYMBOL
+03FF|SigmaLunateDottedReversedSymbol|None|Letter|Uppercase|GREEK CAPITAL REVERSED DOTTED LUNATE SIGMA SYMBOL
 1F00|alphapsili|Letter|Lowercase|GREEK SMALL LETTER ALPHA WITH PSILI
 1F01|alphadasia|Letter|Lowercase|GREEK SMALL LETTER ALPHA WITH DASIA
 1F02|alphapsilivaria|Letter|Lowercase|GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA
@@ -470,20 +470,20 @@
 2CE1|oldnyi-nubian-coptic|Letter|Lowercase|COPTIC SMALL LETTER OLD NUBIAN NYI
 2CE2|oldWau-nubian-coptic|Letter|Uppercase|COPTIC CAPITAL LETTER OLD NUBIAN WAU
 2CE3|oldwau-nubian-coptic|Letter|Lowercase|COPTIC SMALL LETTER OLD NUBIAN WAU
-2CE4|kai-coptic|Symbol|COPTIC SYMBOL KAI
-2CE5|miro-coptic|Symbol|COPTIC SYMBOL MI RO
-2CE6|piro-coptic|Symbol|COPTIC SYMBOL PI RO
-2CE7|stauros-coptic|Symbol|COPTIC SYMBOL STAUROS
-2CE8|tauro-coptic|Symbol|COPTIC SYMBOL TAU RO
-2CE9|khiro-coptic|Symbol|COPTIC SYMBOL KHI RO
-2CEA|shimasima-coptic|Symbol|COPTIC SYMBOL SHIMA SIMA
-2CF9|oldfullstop-nubian-coptic|Punctuation|COPTIC OLD NUBIAN FULL STOP
-2CFA|olddirectquestion-nubian-coptic|Punctuation|COPTIC OLD NUBIAN DIRECT QUESTION MARK
-2CFB|oldindirectquestion-nubian-coptic|Punctuation|COPTIC OLD NUBIAN INDIRECT QUESTION MARK
-2CFC|oldversedivider-nubian-coptic|Punctuation|COPTIC OLD NUBIAN VERSE DIVIDER
-2CFD|fractiononehalf-coptic|Number|COPTIC FRACTION ONE HALF
-2CFE|fullstop-coptic|Punctuation|COPTIC FULL STOP
-2CFF|morphologicaldivider-coptic|Punctuation|COPTIC MORPHOLOGICAL DIVIDER
+2CE4|kai-coptic|Symbol|None|COPTIC SYMBOL KAI
+2CE5|miro-coptic|Symbol|None|COPTIC SYMBOL MI RO
+2CE6|piro-coptic|Symbol|None|COPTIC SYMBOL PI RO
+2CE7|stauros-coptic|Symbol|None|COPTIC SYMBOL STAUROS
+2CE8|tauro-coptic|Symbol|None|COPTIC SYMBOL TAU RO
+2CE9|khiro-coptic|Symbol|None|COPTIC SYMBOL KHI RO
+2CEA|shimasima-coptic|Symbol|None|COPTIC SYMBOL SHIMA SIMA
+2CF9|oldfullstop-nubian-coptic|Punctuation|None|COPTIC OLD NUBIAN FULL STOP
+2CFA|olddirectquestion-nubian-coptic|Punctuation|None|COPTIC OLD NUBIAN DIRECT QUESTION MARK
+2CFB|oldindirectquestion-nubian-coptic|Punctuation|None|COPTIC OLD NUBIAN INDIRECT QUESTION MARK
+2CFC|oldversedivider-nubian-coptic|Punctuation|None|COPTIC OLD NUBIAN VERSE DIVIDER
+2CFD|fractiononehalf-coptic|Number|None|COPTIC FRACTION ONE HALF
+2CFE|fullstop-coptic|Punctuation|None|COPTIC FULL STOP
+2CFF|morphologicaldivider-coptic|Punctuation|None|COPTIC MORPHOLOGICAL DIVIDER
 1D5E|gammamod|Letter|Modifier|MODIFIER LETTER SMALL GREEK GAMMA
 1D60|phimod|Letter|Modifier|MODIFIER LETTER SMALL GREEK PHI
-2129|turnediota|Symbol|TURNED GREEK SMALL LETTER IOTA
+2129|turnediota|Symbol|None|TURNED GREEK SMALL LETTER IOTA

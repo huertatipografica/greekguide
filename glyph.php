@@ -15,7 +15,7 @@ foreach ($fonts as $fuente){
 }
 
 #Array of words from dictionary
-$words = explode(PHP_EOL, file_get_contents('greek-dictionary.txt'));
+$words = explode(PHP_EOL, file_get_contents("$script-dictionary.txt"));
 
 #busca signo
 $wordlist=array();

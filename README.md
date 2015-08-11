@@ -15,8 +15,8 @@ Optional: edit glyph information in signs.txt
 
 #Dictionary
 
-The dictionary contains 16,000 comma separated greek words. They are stored in [deva-dictionary.txt](https://github.com/andrestelex/greekguide/blob/master/deva-dictionary.txt)
-The words are taken from this source: http://sanskritdocuments.org/hindi/dict/eng-hin_unic.html
+The dictionary contains 16,000 comma separated greek words. They are stored in greek-dictionary.txt
+The words are taken and trimmed from this source: https://github.com/titoBouzout/Dictionaries
 
 
 Developed by [Andrés Torresi](mailto:andres@huertatipografica.com) and [Juan Pablo del Peral](mailto:juan@huertatipografica.com) for [Huerta Tipográfica](http://www.huertatipografica.com).
@@ -25,7 +25,7 @@ Developed by [Andrés Torresi](mailto:andres@huertatipografica.com) and [Juan Pa
 
 ### License
 
-Copyright 2014 Huerta Tupográfica (@huertatipo).
+Copyright 2015 Huerta Tupográfica (@huertatipo).
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
