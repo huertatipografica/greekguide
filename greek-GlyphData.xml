@@ -1,0 +1,490 @@
+<glyph unicode="0342" name="perispomenicomb" category="Mark" subCategory="Nonspacing"   description="COMBINING GREEK PERISPOMENI"   />
+<glyph unicode="0343" name="koroniscomb"  category="Mark" subCategory="Nonspacing"   description="COMBINING GREEK KORONIS"  />
+<glyph unicode="0344" name="dialytikatonoscomb"  category="Mark" subCategory="Nonspacing"   description="COMBINING GREEK DIALYTIKA TONOS"  />
+<glyph unicode="0345" name="ypogegrammenicomb" category="Mark" subCategory="Nonspacing"   description="COMBINING GREEK YPOGEGRAMMENI"  />
+<glyph unicode="0391" name="Alpha"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER ALPHA"   />
+<glyph unicode="0392" name="Beta"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER BETA" />
+<glyph unicode="0393" name="Gamma"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER GAMMA" />
+<glyph unicode="0394" name="Delta"  category="Letter" subCategory="Uppercase"   description="GREEK CAPITAL LETTER DELTA" />
+<glyph unicode="0395" name="Epsilon"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER EPSILON"   />
+<glyph unicode="0396" name="Zeta"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER ZETA" />
+<glyph unicode="0397" name="Eta"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER ETA"   />
+<glyph unicode="0398" name="Theta"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER THETA" />
+<glyph unicode="0399" name="Iota"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER IOTA"   />
+<glyph unicode="039A" name="Kappa"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER KAPPA" />
+<glyph unicode="039B" name="Lambda"  category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER LAMDA" />
+<glyph unicode="039C" name="Mu"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER MU" />
+<glyph unicode="039D" name="Nu"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER NU" />
+<glyph unicode="039E" name="Xi"  category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER XI" />
+<glyph unicode="039F" name="Omicron"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER OMICRON"   />
+<glyph unicode="03A0" name="Pi"  category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER PI" />
+<glyph unicode="03A1" name="Rho"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER RHO" />
+<glyph unicode="03A3" name="Sigma"  category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER SIGMA" />
+<glyph unicode="03A4" name="Tau"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER TAU" />
+<glyph unicode="03A5" name="Upsilon"  category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER UPSILON"   />
+<glyph unicode="03A6" name="Phi"  category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER PHI" />
+<glyph unicode="03A7" name="Chi"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER CHI" />
+<glyph unicode="03A8" name="Psi"  category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER PSI" />
+<glyph unicode="03A9" name="Omega"  category="Letter" subCategory="Uppercase"   description="GREEK CAPITAL LETTER OMEGA"   />
+<glyph unicode="03B1" name="alpha"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER ALPHA"   />
+<glyph unicode="03B2" name="beta"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER BETA" />
+<glyph unicode="03B3" name="gamma"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER GAMMA" />
+<glyph unicode="03B4" name="delta"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER DELTA" />
+<glyph unicode="03B5" name="epsilon"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER EPSILON"   />
+<glyph unicode="03B6" name="zeta"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER ZETA" />
+<glyph unicode="03B7" name="eta"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER ETA"   />
+<glyph unicode="03B8" name="theta"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER THETA" />
+<glyph unicode="03B9" name="iota"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER IOTA"   />
+<glyph unicode="03BA" name="kappa"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER KAPPA" />
+<glyph unicode="03BB" name="lambda"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER LAMDA" />
+<glyph unicode="03BC" name="mu"  category="Letter" subCategory="Lowercase"   description="GREEK SMALL LETTER MU" />
+<glyph unicode="03BD" name="nu"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER NU" />
+<glyph unicode="03BE" name="xi"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER XI" />
+<glyph unicode="03BF" name="omicron"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER OMICRON"   />
+<glyph unicode="03C0" name="pi"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER PI" />
+<glyph unicode="03C1" name="rho"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER RHO" />
+<glyph unicode="03C2" name="sigmafinal"  category="Letter" subCategory="Lowercase"   description="GREEK SMALL LETTER FINAL SIGMA" />
+<glyph unicode="03C3" name="sigma"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER SIGMA" />
+<glyph unicode="03C4" name="tau"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER TAU" />
+<glyph unicode="03C5" name="upsilon"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER UPSILON"   />
+<glyph unicode="03C6" name="phi"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER PHI" />
+<glyph unicode="03C7" name="chi"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER CHI" />
+<glyph unicode="03C8" name="psi"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER PSI" />
+<glyph unicode="03C9" name="omega"  category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER OMEGA"   />
+<glyph unicode="0384" name="tonos"   category="Mark" subCategory="Spacing" description="GREEK TONOS"  />
+<glyph unicode="0385" name="dieresistonos"   category="Mark" subCategory="Spacing"  description="GREEK DIALYTIKA TONOS"  />
+<glyph unicode="0387" name="anoteleia"   category="Punctuation" description="GREEK ANO TELEIA" />
+<glyph unicode="0386" name="Alphatonos"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER ALPHA WITH TONOS" />
+<glyph unicode="0388" name="Epsilontonos"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER EPSILON WITH TONOS" />
+<glyph unicode="0389" name="Etatonos"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER ETA WITH TONOS" />
+<glyph unicode="038A" name="Iotatonos"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER IOTA WITH TONOS" />
+<glyph unicode="038C" name="Omicrontonos"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER OMICRON WITH TONOS" />
+<glyph unicode="038E" name="Upsilontonos"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER UPSILON WITH TONOS" />
+<glyph unicode="038F" name="Omegatonos"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER OMEGA WITH TONOS" />
+<glyph unicode="03AA" name="Iotadieresis"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER IOTA WITH DIALYTIKA" />
+<glyph unicode="03AB" name="Upsilondieresis"   category="Letter" subCategory="Uppercase" description="GREEK CAPITAL LETTER UPSILON WITH DIALYTIKA" />
+<glyph unicode="03AF" name="iotatonos"   category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER IOTA WITH TONOS" />
+<glyph unicode="03CA" name="iotadieresis"   category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER IOTA WITH DIALYTIKA"  />
+<glyph unicode="0390" name="iotadieresistonos"   category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS" />
+<glyph unicode="03CD" name="upsilontonos"   category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER UPSILON WITH TONOS" />
+<glyph unicode="03CB" name="upsilondieresis"   category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER UPSILON WITH DIALYTIKA"  />
+<glyph unicode="03B0" name="upsilondieresistonos"   category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS" />
+<glyph unicode="03CC" name="omicrontonos"   category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER OMICRON WITH TONOS" />
+<glyph unicode="03CE" name="omegatonos"   category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER OMEGA WITH TONOS" />
+<glyph unicode="03AC" name="alphatonos"   category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER ALPHA WITH TONOS" />
+<glyph unicode="03AD" name="epsilontonos"   category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER EPSILON WITH TONOS" />
+<glyph unicode="03AE" name="etatonos"   category="Letter" subCategory="Lowercase" description="GREEK SMALL LETTER ETA WITH TONOS" />
+<glyph unicode="0370" name="Heta"  category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER HETA" />
+<glyph unicode="0371" name="heta"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER HETA" />
+<glyph unicode="0372" name="Archaicsampi"  category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ARCHAIC SAMPI" />
+<glyph unicode="0373" name="archaicsampi"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ARCHAIC SAMPI" />
+<glyph unicode="0374" name="numeral-greek"   category="Symbol" subCategory="Modifier"   description="GREEK NUMERAL SIGN" />
+<glyph unicode="0375" name="lowernumeral-greek"  category="Symbol" subCategory="Modifier"   description="GREEK LOWER NUMERAL SIGN" />
+<glyph unicode="0376" name="Pamphyliandigamma"  category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER PAMPHYLIAN DIGAMMA" />
+<glyph unicode="0377" name="pamphyliandigamma"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER PAMPHYLIAN DIGAMMA" />
+<glyph unicode="037A" name="ypogegrammeni"   category="Letter" subCategory="Modifier"  description="GREEK YPOGEGRAMMENI" />
+<glyph unicode="037B" name="sigmaLunateReversedSymbol"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL REVERSED LUNATE SIGMA SYMBOL" />
+<glyph unicode="037C" name="sigmaLunateDottedSymbol"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL DOTTED LUNATE SIGMA SYMBOL" />
+<glyph unicode="037D" name="sigmaLunateDottedReversedSymbol"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL REVERSED DOTTED LUNATE SIGMA SYMBOL" />
+<glyph unicode="037E" name="questiongreek"   category="Punctuation"  description="GREEK QUESTION MARK" />
+<glyph unicode="037F" name="Yot" category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER YOT" />
+<glyph unicode="03D8" name="KoppaArchaic"  category="Letter" subCategory="Uppercase"  description="GREEK LETTER ARCHAIC KOPPA" />
+<glyph unicode="03D9" name="koppaArchaic"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ARCHAIC KOPPA" />
+<glyph unicode="03DA" name="Stigma"  category="Letter" subCategory="Uppercase"   description="GREEK LETTER STIGMA" />
+<glyph unicode="03DB" name="stigma"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER STIGMA" />
+<glyph unicode="03DC" name="Digamma"  category="Letter" subCategory="Uppercase"   description="GREEK LETTER DIGAMMA" />
+<glyph unicode="03DD" name="digamma"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER DIGAMMA" />
+<glyph unicode="03DE" name="Koppa"  category="Letter" subCategory="Uppercase"   description="GREEK LETTER KOPPA" />
+<glyph unicode="03DF" name="koppa"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER KOPPA" />
+<glyph unicode="03E0" name="Sampi"  category="Letter" subCategory="Uppercase"   description="GREEK LETTER SAMPI" />
+<glyph unicode="03E1" name="sampi"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER SAMPI" />
+<glyph unicode="03CF" name="KaiSymbol"  category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL KAI SYMBOL" />
+<glyph unicode="03D7" name="kaiSymbol"  category="Letter" subCategory="Lowercase"  description="GREEK KAI SYMBOL" />
+<glyph unicode="03D0" name="betaSymbol"   category="Letter" subCategory="Lowercase"   description="GREEK BETA SYMBOL" />
+<glyph unicode="03D1" name="thetaSymbol"   category="Letter" subCategory="Lowercase"   description="GREEK THETA SYMBOL" />
+<glyph unicode="03D2" name="UpsilonhookSymbol"   category="Letter" subCategory="Uppercase"   description="GREEK UPSILON WITH HOOK SYMBOL"   />
+<glyph unicode="03D3" name="UpsilonacutehookSymbol"   category="Letter" subCategory="Uppercase"   description="GREEK UPSILON WITH ACUTE AND HOOK SYMBOL" />
+<glyph unicode="03D4" name="UpsilondieresishookSymbol"   category="Letter" subCategory="Uppercase"   description="GREEK UPSILON WITH DIAERESIS AND HOOK SYMBOL" />
+<glyph unicode="03D5" name="phiSymbol"   category="Letter" subCategory="Lowercase"   description="GREEK PHI SYMBOL" />
+<glyph unicode="03D6" name="piSymbol"   category="Letter" subCategory="Lowercase"   description="GREEK PI SYMBOL" />
+<glyph unicode="03F0" name="kappaSymbol"   category="Letter" subCategory="Lowercase"   description="GREEK KAPPA SYMBOL" />
+<glyph unicode="03F1" name="rhoSymbol"   category="Letter" subCategory="Lowercase"   description="GREEK RHO SYMBOL" />
+<glyph unicode="03F2" name="sigmaLunateSymbol"   category="Letter" subCategory="Lowercase"   description="GREEK LUNATE SIGMA SYMBOL" />
+<glyph unicode="03F3" name="yot"  category="Letter" subCategory="Lowercase"   description="GREEK LETTER YOT" />
+<glyph unicode="03F4" name="ThetaSymbol"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL THETA SYMBOL" />
+<glyph unicode="03F5" name="epsilonLunateSymbol"   category="Letter" subCategory="Lowercase"  description="GREEK LUNATE EPSILON SYMBOL" />
+<glyph unicode="03F6" name="epsilonLunateReversedSymbol"  category="Symbol" subCategory="Math"  description="GREEK REVERSED LUNATE EPSILON SYMBOL" />
+<glyph unicode="03F7" name="Sho"  category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER SHO" />
+<glyph unicode="03F8" name="sho"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER SHO" />
+<glyph unicode="03F9" name="SigmaLunateSymbol"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LUNATE SIGMA SYMBOL" />
+<glyph unicode="03FA" name="San"  category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER SAN" />
+<glyph unicode="03FB" name="san"  category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER SAN" />
+<glyph unicode="03FC" name="rhoStrokeSymbol"  category="Letter" subCategory="Lowercase"  description="GREEK RHO WITH STROKE SYMBOL" />
+<glyph unicode="03FD" name="SigmaLunateReversedSymbol"  category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL REVERSED LUNATE SIGMA SYMBOL" />
+<glyph unicode="03FE" name="SigmaLunateDottedSymbol"  category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL DOTTED LUNATE SIGMA SYMBOL" />
+<glyph unicode="03FF" name="SigmaLunateDottedReversedSymbol"  category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL REVERSED DOTTED LUNATE SIGMA SYMBOL" />
+<glyph unicode="1F00" name="alphapsili"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH PSILI" />
+<glyph unicode="1F01" name="alphadasia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH DASIA" />
+<glyph unicode="1F02" name="alphapsilivaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA" />
+<glyph unicode="1F03" name="alphadasiavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA" />
+<glyph unicode="1F04" name="alphapsilioxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA" />
+<glyph unicode="1F05" name="alphadasiaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA" />
+<glyph unicode="1F06" name="alphapsiliperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI" />
+<glyph unicode="1F07" name="alphadasiaperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI" />
+<glyph unicode="1F08" name="Alphapsili"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH PSILI" />
+<glyph unicode="1F09" name="Alphadasia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH DASIA" />
+<glyph unicode="1F0A" name="Alphapsilivaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA" />
+<glyph unicode="1F0B" name="Alphadasiavaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA" />
+<glyph unicode="1F0C" name="Alphapsilioxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA" />
+<glyph unicode="1F0D" name="Alphadasiaoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA" />
+<glyph unicode="1F0E" name="Alphapsiliperispomeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI" />
+<glyph unicode="1F0F" name="Alphadasiaperispomeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI" />
+<glyph unicode="1F10" name="epsilonpsili"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER EPSILON WITH PSILI" />
+<glyph unicode="1F11" name="epsilondasia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER EPSILON WITH DASIA" />
+<glyph unicode="1F12" name="epsilonpsilivaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER EPSILON WITH PSILI AND VARIA" />
+<glyph unicode="1F13" name="epsilondasiavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER EPSILON WITH DASIA AND VARIA" />
+<glyph unicode="1F14" name="epsilonpsilioxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA" />
+<glyph unicode="1F15" name="epsilondasiaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA" />
+<glyph unicode="1F18" name="Epsilonpsili"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER EPSILONPSILI" />
+<glyph unicode="1F19" name="Epsilondasia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER EPSILONDASIA" />
+<glyph unicode="1F1A" name="Epsilonpsilivaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER EPSILONPSILI AND VARIA" />
+<glyph unicode="1F1B" name="Epsilondasiavaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER EPSILONDASIA AND VARIA" />
+<glyph unicode="1F1C" name="Epsilonpsilioxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER EPSILONPSILI AND OXIA" />
+<glyph unicode="1F1D" name="Epsilondasiaoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER EPSILONDASIA AND OXIA" />
+<glyph unicode="1F20" name="etapsili"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH PSILI" />
+<glyph unicode="1F21" name="etadasia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH DASIA" />
+<glyph unicode="1F22" name="etapsilivaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH PSILI AND VARIA" />
+<glyph unicode="1F23" name="etadasiavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH DASIA AND VARIA" />
+<glyph unicode="1F24" name="etapsilioxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH PSILI AND OXIA" />
+<glyph unicode="1F25" name="etadasiaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH DASIA AND OXIA" />
+<glyph unicode="1F26" name="etapsiliperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI" />
+<glyph unicode="1F27" name="etadasiaperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI" />
+<glyph unicode="1F28" name="Etapsili"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH PSILI" />
+<glyph unicode="1F29" name="Etadasia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH DASIA" />
+<glyph unicode="1F2A" name="Etapsilivaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA" />
+<glyph unicode="1F2B" name="Etadasiavaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA" />
+<glyph unicode="1F2C" name="Etapsilioxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA" />
+<glyph unicode="1F2D" name="Etadasiaoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA" />
+<glyph unicode="1F2E" name="Etapsiliperispomeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI" />
+<glyph unicode="1F2F" name="Etadasiaperispomeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI" />
+<glyph unicode="1F30" name="iotapsili"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH PSILI" />
+<glyph unicode="1F31" name="iotadasia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH DASIA" />
+<glyph unicode="1F32" name="iotapsilivaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH PSILI AND VARIA" />
+<glyph unicode="1F33" name="iotadasiavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH DASIA AND VARIA" />
+<glyph unicode="1F34" name="iotapsilioxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH PSILI AND OXIA" />
+<glyph unicode="1F35" name="iotadasiaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH DASIA AND OXIA" />
+<glyph unicode="1F36" name="iotapsiliperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH PSILI AND PERISPOMENI" />
+<glyph unicode="1F37" name="iotadasiaperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH DASIA AND PERISPOMENI" />
+<glyph unicode="1F38" name="Iotapsili"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER IOTA WITH PSILI" />
+<glyph unicode="1F39" name="Iotadasia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER IOTA WITH DASIA" />
+<glyph unicode="1F3A" name="Iotapsilivaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER IOTA WITH PSILI AND VARIA" />
+<glyph unicode="1F3B" name="Iotadasiavaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER IOTA WITH DASIA AND VARIA" />
+<glyph unicode="1F3C" name="Iotapsilioxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA" />
+<glyph unicode="1F3D" name="Iotadasiaoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA" />
+<glyph unicode="1F3E" name="Iotapsiliperispomeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER IOTA WITH PSILI AND PERISPOMENI" />
+<glyph unicode="1F3F" name="Iotadasiaperispomeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER IOTA WITH DASIA AND PERISPOMENI" />
+<glyph unicode="1F40" name="omicronpsili"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMICRON WITH PSILI" />
+<glyph unicode="1F41" name="omicrondasia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMICRON WITH DASIA" />
+<glyph unicode="1F42" name="omicronpsilivaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMICRON WITH PSILI AND VARIA" />
+<glyph unicode="1F43" name="omicrondasiavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA" />
+<glyph unicode="1F44" name="omicronpsilioxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA" />
+<glyph unicode="1F45" name="omicrondasiaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA" />
+<glyph unicode="1F48" name="Omicronpsili"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMICRON WITH PSILI" />
+<glyph unicode="1F49" name="Omicrondasia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMICRON WITH DASIA" />
+<glyph unicode="1F4A" name="Omicronpsilivaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMICRON WITH PSILI AND VARIA" />
+<glyph unicode="1F4B" name="Omicrondasiavaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMICRON WITH DASIA AND VARIA" />
+<glyph unicode="1F4C" name="Omicronpsilioxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA" />
+<glyph unicode="1F4D" name="Omicrondasiaoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA" />
+<glyph unicode="1F50" name="upsilonpsili"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH PSILI" />
+<glyph unicode="1F51" name="upsilondasia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH DASIA" />
+<glyph unicode="1F52" name="upsilonpsilivaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH PSILI AND VARIA" />
+<glyph unicode="1F53" name="upsilondasiavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH DASIA AND VARIA" />
+<glyph unicode="1F54" name="upsilonpsilioxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA" />
+<glyph unicode="1F55" name="upsilondasiaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA" />
+<glyph unicode="1F56" name="upsilonpsiliperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI" />
+<glyph unicode="1F57" name="upsilondasiaperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH DASIA AND PERISPOMENI" />
+<glyph unicode="1F59" name="Upsilondasia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER UPSILON WITH DASIA" />
+<glyph unicode="1F5B" name="Upsilondasiavaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER UPSILON WITH DASIA AND VARIA" />
+<glyph unicode="1F5D" name="Upsilondasiaoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA" />
+<glyph unicode="1F5F" name="Upsilondasiaperispomeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER UPSILON WITH DASIA AND PERISPOMENI" />
+<glyph unicode="1F60" name="omegapsili"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH PSILI" />
+<glyph unicode="1F61" name="omegadasia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH DASIA" />
+<glyph unicode="1F62" name="omegapsilivaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA" />
+<glyph unicode="1F63" name="omegadasiavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA" />
+<glyph unicode="1F64" name="omegapsilioxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA" />
+<glyph unicode="1F65" name="omegadasiaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA" />
+<glyph unicode="1F66" name="omegapsiliperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI" />
+<glyph unicode="1F67" name="omegadasiaperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI" />
+<glyph unicode="1F68" name="Omegapsili"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH PSILI" />
+<glyph unicode="1F69" name="Omegadasia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH DASIA" />
+<glyph unicode="1F6A" name="Omegapsilivaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA" />
+<glyph unicode="1F6B" name="Omegadasiavaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA" />
+<glyph unicode="1F6C" name="Omegapsilioxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA" />
+<glyph unicode="1F6D" name="Omegadasiaoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA" />
+<glyph unicode="1F6E" name="Omegapsiliperispomeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI" />
+<glyph unicode="1F6F" name="Omegadasiaperispomeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI" />
+<glyph unicode="1F70" name="alphavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH VARIA" />
+<glyph unicode="1F71" name="alphaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH OXIA" />
+<glyph unicode="1F72" name="epsilonvaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER EPSILON WITH VARIA" />
+<glyph unicode="1F73" name="epsilonoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER EPSILON WITH OXIA" />
+<glyph unicode="1F74" name="etavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH VARIA" />
+<glyph unicode="1F75" name="etaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH OXIA" />
+<glyph unicode="1F76" name="iotavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH VARIA" />
+<glyph unicode="1F77" name="iotaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH OXIA" />
+<glyph unicode="1F78" name="omicronvaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMICRON WITH VARIA" />
+<glyph unicode="1F79" name="omicronoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMICRON WITH OXIA" />
+<glyph unicode="1F7A" name="upsilonvaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH VARIA" />
+<glyph unicode="1F7B" name="upsilonoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH OXIA" />
+<glyph unicode="1F7C" name="omegavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH VARIA" />
+<glyph unicode="1F7D" name="omegaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH OXIA" />
+<glyph unicode="1F80" name="alphapsiliypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH PSILI AND YPOGEGRAMMENI" />
+<glyph unicode="1F81" name="alphadasiaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH DASIA AND YPOGEGRAMMENI" />
+<glyph unicode="1F82" name="alphapsilivariaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA AND YPOGEGRAMMENI" />
+<glyph unicode="1F83" name="alphadasiavariaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA AND YPOGEGRAMMENI" />
+<glyph unicode="1F84" name="alphapsilioxiaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA AND YPOGEGRAMMENI" />
+<glyph unicode="1F85" name="alphadasiaoxiaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA AND YPOGEGRAMMENI" />
+<glyph unicode="1F86" name="alphapsiliperispomeniypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI" />
+<glyph unicode="1F87" name="alphadasiaperispomeniypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI" />
+<glyph unicode="1F88" name="Alphapsiliprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH PSILI AND PROSGEGRAMMENI" />
+<glyph unicode="1F89" name="Alphadasiaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH DASIA AND PROSGEGRAMMENI" />
+<glyph unicode="1F8A" name="Alphapsilivariaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI" />
+<glyph unicode="1F8B" name="Alphadasiavariaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA AND PROSGEGRAMMENI" />
+<glyph unicode="1F8C" name="Alphapsilioxiaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA AND PROSGEGRAMMENI" />
+<glyph unicode="1F8D" name="Alphadasiaoxiaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI" />
+<glyph unicode="1F8E" name="Alphapsiliperispomeniprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI" />
+<glyph unicode="1F8F" name="Alphadasiaperispomeniprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI" />
+<glyph unicode="1F90" name="etapsiliypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH PSILI AND YPOGEGRAMMENI" />
+<glyph unicode="1F91" name="etadasiaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI" />
+<glyph unicode="1F92" name="etapsilivariaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH PSILI AND VARIA AND YPOGEGRAMMENI" />
+<glyph unicode="1F93" name="etadasiavariaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH DASIA AND VARIA AND YPOGEGRAMMENI" />
+<glyph unicode="1F94" name="etapsilioxiaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH PSILI AND OXIA AND YPOGEGRAMMENI" />
+<glyph unicode="1F95" name="etadasiaoxiaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH DASIA AND OXIA AND YPOGEGRAMMENI" />
+<glyph unicode="1F96" name="etapsiliperispomeniypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI" />
+<glyph unicode="1F97" name="etadasiaperispomeniypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI" />
+<glyph unicode="1F98" name="Etapsiliprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH PSILI AND PROSGEGRAMMENI" />
+<glyph unicode="1F99" name="Etadasiaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH DASIA AND PROSGEGRAMMENI" />
+<glyph unicode="1F9A" name="Etapsilivariaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA AND PROSGEGRAMMENI" />
+<glyph unicode="1F9B" name="Etadasiavariaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA AND PROSGEGRAMMENI" />
+<glyph unicode="1F9C" name="Etapsilioxiaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA AND PROSGEGRAMMENI" />
+<glyph unicode="1F9D" name="Etadasiaoxiaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA AND PROSGEGRAMMENI" />
+<glyph unicode="1F9E" name="Etapsiliperispomeniprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI" />
+<glyph unicode="1F9F" name="Etadasiaperispomeniprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI" />
+<glyph unicode="1FA0" name="omegapsiliypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH PSILI AND YPOGEGRAMMENI" />
+<glyph unicode="1FA1" name="omegadasiaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH DASIA AND YPOGEGRAMMENI" />
+<glyph unicode="1FA2" name="omegapsilivariaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA AND YPOGEGRAMMENI" />
+<glyph unicode="1FA3" name="omegadasiavariaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA AND YPOGEGRAMMENI" />
+<glyph unicode="1FA4" name="omegapsilioxiaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA AND YPOGEGRAMMENI" />
+<glyph unicode="1FA5" name="omegadasiaoxiaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA AND YPOGEGRAMMENI" />
+<glyph unicode="1FA6" name="omegapsiliperispomeniypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI" />
+<glyph unicode="1FA7" name="omegadasiaperispomeniypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI" />
+<glyph unicode="1FA8" name="Omegapsiliprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH PSILI AND PROSGEGRAMMENI" />
+<glyph unicode="1FA9" name="Omegadasiaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH DASIA AND PROSGEGRAMMENI" />
+<glyph unicode="1FAA" name="Omegapsilivariaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA AND PROSGEGRAMMENI" />
+<glyph unicode="1FAB" name="Omegadasiavariaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA AND PROSGEGRAMMENI" />
+<glyph unicode="1FAC" name="Omegapsilioxiaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA AND PROSGEGRAMMENI" />
+<glyph unicode="1FAD" name="Omegadasiaoxiaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA AND PROSGEGRAMMENI" />
+<glyph unicode="1FAE" name="Omegapsiliperispomeniprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI" />
+<glyph unicode="1FAF" name="Omegadasiaperispomeniprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI" />
+<glyph unicode="1FB0" name="alphavrachy"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH VRACHY" />
+<glyph unicode="1FB1" name="alphamacron"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH MACRON" />
+<glyph unicode="1FB2" name="alphavariaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH VARIA AND YPOGEGRAMMENI" />
+<glyph unicode="1FB3" name="alphaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH YPOGEGRAMMENI" />
+<glyph unicode="1FB4" name="alphaoxiaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH OXIA AND YPOGEGRAMMENI" />
+<glyph unicode="1FB6" name="alphaperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH PERISPOMENI" />
+<glyph unicode="1FB7" name="alphaperispomeniypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ALPHA WITH PERISPOMENI AND YPOGEGRAMMENI" />
+<glyph unicode="1FB8" name="Alphavrachy"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH VRACHY" />
+<glyph unicode="1FB9" name="Alphamacron"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH MACRON" />
+<glyph unicode="1FBA" name="Alphavaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER GREEK ALPHA WITH VARIA" />
+<glyph unicode="1FBB" name="Alphaoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH OXIA" />
+<glyph unicode="1FBC" name="Alphaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI" />
+<glyph unicode="1FBD" name="koronis"  category="Mark" subCategory="Spacing"  description="GREEK KORONIS"  />
+<glyph unicode="1FBE" name="prosgegrammeni"  category="Letter" subCategory="Lowercase"  description="GREEK PROSGEGRAMMENI" />
+<glyph unicode="1FBF" name="psili"  category="Mark" subCategory="Spacing"  description="GREEK PSILI"   />
+<glyph unicode="1FC0" name="perispomeni"   category="Mark" subCategory="Spacing"  description="GREEK PERISPOMENI"  />
+<glyph unicode="1FC1" name="dialytikaperispomeni"   category="Mark" subCategory="Spacing"  description="GREEK DIALYTIKA AND PERISPOMENI"  />
+<glyph unicode="1FC2" name="etavariaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH VARIA AND YPOGEGRAMMENI" />
+<glyph unicode="1FC3" name="etaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH YPOGEGRAMMENI" />
+<glyph unicode="1FC4" name="etaoxiaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI" />
+<glyph unicode="1FC6" name="etaperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH PERISPOMENI" />
+<glyph unicode="1FC7" name="etaperispomeniypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER ETA WITH PERISPOMENI AND YPOGEGRAMMENI" />
+<glyph unicode="1FC8" name="Epsilonvaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER EPSILONVARIA" />
+<glyph unicode="1FC9" name="Epsilonoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER EPSILONOXIA" />
+<glyph unicode="1FCA" name="Etavaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH VARIA" />
+<glyph unicode="1FCB" name="Etaoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH OXIA" />
+<glyph unicode="1FCC" name="Etaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER ETA WITH PROSGEGRAMMENI" />
+<glyph unicode="1FCD" name="psilivaria"   category="Mark" subCategory="Spacing"  description="GREEK PSILI AND VARIA"   />
+<glyph unicode="1FCE" name="psilioxia"   category="Mark" subCategory="Spacing"  description="GREEK PSILI AND OXIA"   />
+<glyph unicode="1FCF" name="psiliperispomeni"   category="Mark" subCategory="Spacing"  description="GREEK PSILI AND PERISPOMENI"   />
+<glyph unicode="1FD0" name="iotavrachy"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH VRACHY" />
+<glyph unicode="1FD1" name="iotamacron"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH MACRON" />
+<glyph unicode="1FD2" name="iotadialytikavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA" />
+<glyph unicode="1FD3" name="iotadialytikaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH DIALYTIKA AND OXIA" />
+<glyph unicode="1FD6" name="iotaperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH PERISPOMENI" />
+<glyph unicode="1FD7" name="iotadialytikaperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI" />
+<glyph unicode="1FD8" name="Iotavrachy"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER IOTA WITH VRACHY" />
+<glyph unicode="1FD9" name="Iotamacron"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER IOTA WITH MACRON" />
+<glyph unicode="1FDA" name="Iotavaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER IOTA WITH VARIA" />
+<glyph unicode="1FDB" name="Iotaoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER IOTA WITH OXIA" />
+<glyph unicode="1FDD" name="dasiavaria"   category="Mark" subCategory="Spacing"  description="GREEK DASIA AND VARIA"   />
+<glyph unicode="1FDE" name="dasiaoxia"   category="Mark" subCategory="Spacing"  description="GREEK DASIA AND OXIA"   />
+<glyph unicode="1FDF" name="dasiaperispomeni"   category="Mark" subCategory="Spacing"  description="GREEK DASIA AND PERISPOMENI"   />
+<glyph unicode="1FE0" name="upsilonvrachy"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH VRACHY" />
+<glyph unicode="1FE1" name="upsilonmacron"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH MACRON" />
+<glyph unicode="1FE2" name="upsilondialytikavaria"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA" />
+<glyph unicode="1FE3" name="upsilondialytikaoxia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND OXIA" />
+<glyph unicode="1FE4" name="rhopsili"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER RHO WITH PSILI" />
+<glyph unicode="1FE5" name="rhodasia"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER RHO WITH DASIA" />
+<glyph unicode="1FE6" name="upsilonperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH PERISPOMENI" />
+<glyph unicode="1FE7" name="upsilondialytikaperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI" />
+<glyph unicode="1FE8" name="Upsilonvrachy"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER UPSILON WITH VRACHY" />
+<glyph unicode="1FE9" name="Upsilonmacron"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER UPSILON WITH MACRON" />
+<glyph unicode="1FEA" name="Upsilonvaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER UPSILON WITH VARIA" />
+<glyph unicode="1FEB" name="Upsilonoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER UPSILON WITH OXIA" />
+<glyph unicode="1FEC" name="Rhodasia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER RHO WITH DASIA" />
+<glyph unicode="1FED" name="dialytikavaria"   category="Mark" subCategory="Spacing"  description="GREEK DIALYTIKA AND VARIA"  />
+<glyph unicode="1FEE" name="dialytikaoxia"   category="Mark" subCategory="Spacing"  description="GREEK DIALYTIKA AND OXIA"  />
+<glyph unicode="1FEF" name="varia"   category="Mark" subCategory="Spacing"  description="GREEK VARIA"   />
+<glyph unicode="1FF2" name="omegavariaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH VARIA AND YPOGEGRAMMENI" />
+<glyph unicode="1FF3" name="omegaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI" />
+<glyph unicode="1FF4" name="omegaoxiaypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI" />
+<glyph unicode="1FF6" name="omegaperispomeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH PERISPOMENI" />
+<glyph unicode="1FF7" name="omegaperispomeniypogegrammeni"   category="Letter" subCategory="Lowercase"  description="GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI" />
+<glyph unicode="1FF8" name="Omicronvaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMICRON WITH VARIA" />
+<glyph unicode="1FF9" name="Omicronoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMICRON WITH OXIA" />
+<glyph unicode="1FFA" name="Omegavaria"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH VARIA" />
+<glyph unicode="1FFB" name="Omegaoxia"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH OXIA" />
+<glyph unicode="1FFC" name="Omegaprosgegrammeni"   category="Letter" subCategory="Uppercase"  description="GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI" />
+<glyph unicode="1FFD" name="oxia"   category="Mark" subCategory="Spacing"  description="GREEK OXIA"   />
+<glyph unicode="1FFE" name="dasia"  category="Mark" subCategory="Spacing"  description="GREEK DASIA"   />
+<glyph name="vrachy"  category="Mark" subCategory="Nonspacing"  description="GREEK BREVE"  />
+<glyph unicode="03E2" name="Shei-coptic" category="Letter" subCategory="Uppercase"   description="COPTIC CAPITAL LETTER SHEI" />
+<glyph unicode="03E3" name="shei-coptic" category="Letter" subCategory="Lowercase"   description="COPTIC SMALL LETTER SHEI" />
+<glyph unicode="03E4" name="Fei-coptic" category="Letter" subCategory="Uppercase"   description="COPTIC CAPITAL LETTER FEI" />
+<glyph unicode="03E5" name="fei-coptic" category="Letter" subCategory="Lowercase"   description="COPTIC SMALL LETTER FEI" />
+<glyph unicode="03E6" name="Khei-coptic" category="Letter" subCategory="Uppercase"   description="COPTIC CAPITAL LETTER KHEI" />
+<glyph unicode="03E7" name="khei-coptic" category="Letter" subCategory="Lowercase"   description="COPTIC SMALL LETTER KHEI" />
+<glyph unicode="03E8" name="Hori-coptic" category="Letter" subCategory="Uppercase"   description="COPTIC CAPITAL LETTER HORI" />
+<glyph unicode="03E9" name="hori-coptic" category="Letter" subCategory="Lowercase"   description="COPTIC SMALL LETTER HORI" />
+<glyph unicode="03EA" name="Gangia-coptic" category="Letter" subCategory="Uppercase"   description="COPTIC CAPITAL LETTER GANGIA" />
+<glyph unicode="03EB" name="gangia-coptic" category="Letter" subCategory="Lowercase"   description="COPTIC SMALL LETTER GANGIA" />
+<glyph unicode="03EC" name="Shima-coptic" category="Letter" subCategory="Uppercase"   description="COPTIC CAPITAL LETTER SHIMA" />
+<glyph unicode="03ED" name="shima-coptic" category="Letter" subCategory="Lowercase"   description="COPTIC SMALL LETTER SHIMA" />
+<glyph unicode="03EE" name="Dei-coptic" category="Letter" subCategory="Uppercase"   description="COPTIC CAPITAL LETTER DEI" />
+<glyph unicode="03EF" name="dei-coptic" category="Letter" subCategory="Lowercase"   description="COPTIC SMALL LETTER DEI" />
+<glyph unicode="2C80" name="Alfa-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER ALFA" />
+<glyph unicode="2C81" name="alfa-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER ALFA" />
+<glyph unicode="2C82" name="Vida-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER VIDA" />
+<glyph unicode="2C83" name="vida-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER VIDA" />
+<glyph unicode="2C84" name="Gamma-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER GAMMA" />
+<glyph unicode="2C85" name="gamma-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER GAMMA" />
+<glyph unicode="2C86" name="Dalda-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER DALDA" />
+<glyph unicode="2C87" name="dalda-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER DALDA" />
+<glyph unicode="2C88" name="Eie-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER EIE" />
+<glyph unicode="2C89" name="eie-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER EIE" />
+<glyph unicode="2C8A" name="Sou-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER SOU" />
+<glyph unicode="2C8B" name="sou-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER SOU" />
+<glyph unicode="2C8C" name="Zata-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER ZATA" />
+<glyph unicode="2C8D" name="zata-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER ZATA" />
+<glyph unicode="2C8E" name="Hate-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER HATE" />
+<glyph unicode="2C8F" name="hate-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER HATE" />
+<glyph unicode="2C90" name="Thethe-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER THETHE" />
+<glyph unicode="2C91" name="thethe-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER THETHE" />
+<glyph unicode="2C92" name="Iauda-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER IAUDA" />
+<glyph unicode="2C93" name="iauda-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER IAUDA" />
+<glyph unicode="2C94" name="Kapa-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER KAPA" />
+<glyph unicode="2C95" name="kapa-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER KAPA" />
+<glyph unicode="2C96" name="Laula-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER LAULA" />
+<glyph unicode="2C97" name="laula-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER LAULA" />
+<glyph unicode="2C98" name="Mi-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER MI" />
+<glyph unicode="2C99" name="mi-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER MI" />
+<glyph unicode="2C9A" name="Ni-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER NI" />
+<glyph unicode="2C9B" name="ni-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER NI" />
+<glyph unicode="2C9C" name="Ksi-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER KSI" />
+<glyph unicode="2C9D" name="ksi-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER KSI" />
+<glyph unicode="2C9E" name="O-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER O" />
+<glyph unicode="2C9F" name="o-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER O" />
+<glyph unicode="2CA0" name="Pi-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER PI" />
+<glyph unicode="2CA1" name="pi-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER PI" />
+<glyph unicode="2CA2" name="Ro-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER RO" />
+<glyph unicode="2CA3" name="ro-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER RO" />
+<glyph unicode="2CA4" name="Sima-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER SIMA" />
+<glyph unicode="2CA5" name="sima-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER SIMA" />
+<glyph unicode="2CA6" name="Tau-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER TAU" />
+<glyph unicode="2CA7" name="tau-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER TAU" />
+<glyph unicode="2CA8" name="Ua-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER UA" />
+<glyph unicode="2CA9" name="ua-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER UA" />
+<glyph unicode="2CAA" name="Fi-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER FI" />
+<glyph unicode="2CAB" name="fi-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER FI" />
+<glyph unicode="2CAC" name="Khi-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER KHI" />
+<glyph unicode="2CAD" name="khi-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER KHI" />
+<glyph unicode="2CAE" name="Psi-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER PSI" />
+<glyph unicode="2CAF" name="psi-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER PSI" />
+<glyph unicode="2CB0" name="Oou-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OOU" />
+<glyph unicode="2CB1" name="oou-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OOU" />
+<glyph unicode="2CB2" name="dialectPalef-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER DIALECT-P ALEF" />
+<glyph unicode="2CB3" name="dialectpalef-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER DIALECT-P ALEF" />
+<glyph unicode="2CB4" name="oldAin-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD COPTIC AIN" />
+<glyph unicode="2CB5" name="oldain-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD COPTIC AIN" />
+<glyph unicode="2CB6" name="Cryptogrammiceie-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER CRYPTOGRAMMIC EIE" />
+<glyph unicode="2CB7" name="cryptogrammiceie-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER CRYPTOGRAMMIC EIE" />
+<glyph unicode="2CB8" name="dialectPkapa-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER DIALECT-P KAPA" />
+<glyph unicode="2CB9" name="dialectpkapa-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER DIALECT-P KAPA" />
+<glyph unicode="2CBA" name="dialectPni-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER DIALECT-P NI" />
+<glyph unicode="2CBB" name="dialectpni-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER DIALECT-P NI" />
+<glyph unicode="2CBC" name="Cryptogrammicni-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER CRYPTOGRAMMIC NI" />
+<glyph unicode="2CBD" name="cryptogrammicni-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER CRYPTOGRAMMIC NI" />
+<glyph unicode="2CBE" name="ldOou-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD COPTIC OOU" />
+<glyph unicode="2CBF" name="oldoou-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD COPTIC OOU" />
+<glyph unicode="2CC0" name="Sampi-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER SAMPI" />
+<glyph unicode="2CC1" name="sampi-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER SAMPI" />
+<glyph unicode="2CC2" name="Crossedshei-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER CROSSED SHEI" />
+<glyph unicode="2CC3" name="crossedshei-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER CROSSED SHEI" />
+<glyph unicode="2CC4" name="oldShei-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD COPTIC SHEI" />
+<glyph unicode="2CC5" name="oldshei-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD COPTIC SHEI" />
+<glyph unicode="2CC6" name="oldEsh-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD COPTIC ESH" />
+<glyph unicode="2CC7" name="oldesh-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD COPTIC ESH" />
+<glyph unicode="2CC8" name="Akhmimickhei-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER AKHMIMIC KHEI" />
+<glyph unicode="2CC9" name="akhmimickhei-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER AKHMIMIC KHEI" />
+<glyph unicode="2CCA" name="dialectPhori-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER DIALECT-P HORI" />
+<glyph unicode="2CCB" name="dialectphori-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER DIALECT-P HORI" />
+<glyph unicode="2CCC" name="oldHori-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD COPTIC HORI" />
+<glyph unicode="2CCD" name="oldhori-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD COPTIC HORI" />
+<glyph unicode="2CCE" name="oldHa-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD COPTIC HA" />
+<glyph unicode="2CCF" name="oldha-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD COPTIC HA" />
+<glyph unicode="2CD0" name="LshapedHa-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER L-SHAPED HA" />
+<glyph unicode="2CD1" name="Lshapedha-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER L-SHAPED HA" />
+<glyph unicode="2CD2" name="oldHei-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD COPTIC HEI" />
+<glyph unicode="2CD3" name="oldhei-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD COPTIC HEI" />
+<glyph unicode="2CD4" name="oldHat-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD COPTIC HAT" />
+<glyph unicode="2CD5" name="oldhat-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD COPTIC HAT" />
+<glyph unicode="2CD6" name="oldGangia-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD COPTIC GANGIA" />
+<glyph unicode="2CD7" name="oldgangia-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD COPTIC GANGIA" />
+<glyph unicode="2CD8" name="oldDja-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD COPTIC DJA" />
+<glyph unicode="2CD9" name="olddja-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD COPTIC DJA" />
+<glyph unicode="2CDA" name="oldShima-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD COPTIC SHIMA" />
+<glyph unicode="2CDB" name="oldshima-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD COPTIC SHIMA" />
+<glyph unicode="2CDC" name="oldShima-nubian-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD NUBIAN SHIMA" />
+<glyph unicode="2CDD" name="oldshima-nubian-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD NUBIAN SHIMA" />
+<glyph unicode="2CDE" name="oldNgi-nubian-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD NUBIAN NGI" />
+<glyph unicode="2CDF" name="oldngi-nubian-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD NUBIAN NGI" />
+<glyph unicode="2CE0" name="oldNyi-nubian-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD NUBIAN NYI" />
+<glyph unicode="2CE1" name="oldnyi-nubian-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD NUBIAN NYI" />
+<glyph unicode="2CE2" name="oldWau-nubian-coptic" category="Letter" subCategory="Uppercase"  description="COPTIC CAPITAL LETTER OLD NUBIAN WAU" />
+<glyph unicode="2CE3" name="oldwau-nubian-coptic" category="Letter" subCategory="Lowercase"  description="COPTIC SMALL LETTER OLD NUBIAN WAU" />
+<glyph unicode="2CE4" name="kai-coptic" category="Symbol"  description="COPTIC SYMBOL KAI" />
+<glyph unicode="2CE5" name="miro-coptic" category="Symbol"  description="COPTIC SYMBOL MI RO" />
+<glyph unicode="2CE6" name="piro-coptic" category="Symbol"  description="COPTIC SYMBOL PI RO" />
+<glyph unicode="2CE7" name="stauros-coptic" category="Symbol"  description="COPTIC SYMBOL STAUROS" />
+<glyph unicode="2CE8" name="tauro-coptic" category="Symbol"  description="COPTIC SYMBOL TAU RO" />
+<glyph unicode="2CE9" name="khiro-coptic" category="Symbol"  description="COPTIC SYMBOL KHI RO" />
+<glyph unicode="2CEA" name="shimasima-coptic" category="Symbol"  description="COPTIC SYMBOL SHIMA SIMA" />
+<glyph unicode="2CF9" name="oldfullstop-nubian-coptic" category="Punctuation"  description="COPTIC OLD NUBIAN FULL STOP" />
+<glyph unicode="2CFA" name="olddirectquestion-nubian-coptic" category="Punctuation"  description="COPTIC OLD NUBIAN DIRECT QUESTION MARK" />
+<glyph unicode="2CFB" name="oldindirectquestion-nubian-coptic" category="Punctuation"  description="COPTIC OLD NUBIAN INDIRECT QUESTION MARK" />
+<glyph unicode="2CFC" name="oldversedivider-nubian-coptic" category="Punctuation"  description="COPTIC OLD NUBIAN VERSE DIVIDER" />
+<glyph unicode="2CFD" name="fractiononehalf-coptic" category="Number"  description="COPTIC FRACTION ONE HALF" />
+<glyph unicode="2CFE" name="fullstop-coptic" category="Punctuation"  description="COPTIC FULL STOP" />
+<glyph unicode="2CFF" name="morphologicaldivider-coptic" category="Punctuation"  description="COPTIC MORPHOLOGICAL DIVIDER" />
+<glyph unicode="1D5E" name="gammamod"  category="Letter" subCategory="Modifier"  description="MODIFIER LETTER SMALL GREEK GAMMA" />
+<glyph unicode="1D60" name="phimod"  category="Letter" subCategory="Modifier"  description="MODIFIER LETTER SMALL GREEK PHI" />
+<glyph unicode="2129" name="turnediota" category="Symbol"  description="TURNED GREEK SMALL LETTER IOTA" />
