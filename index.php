@@ -33,12 +33,13 @@ include('fonts_list.php');
 			}
 		};
 		?>
+		<div class="thumbs"></div>
 	</div>
 
-	<div class="header">
-		<p><a href="http://greekguide.huertatipografica.com">GreekGuide</a> Vesion 0.1 | Desarrollado por Andrés Torresi | <a href="http://www.huertatipografica.com/">Huerta Tipográfica</a> | <a href="https://github.com/huertatipografica/greekguide">Contribute on Github</a></p>
-		<p>Podés descargar y modificar este software | Feel free to modify this software</p>
-		<h2>Ayuda / Help</h2>
+	<div class="header footer">
+		<p><a href="http://greekguide.huertatipografica.com">GreekGuide</a> Vesion 0.1 |  From <a href="http://www.huertatipografica.com/">Huerta Tipográfica</a> | <a href="https://github.com/huertatipografica/greekguide">Contribute on Github</a></p>
+		<p>Feel free to modify or contribute to this software</p>
+		<h2>Help</h2>
 		<p>Put your devanagari fonts in «fonts» folder</p>
 		<p>Using glyphs info from <?php echo $script ?>-glyphs.txt file</p>
 		<p>Dictionary words from <a target="_blank" href="https://github.com/titoBouzout/Dictionaries/">titoBouzout</a></p>

@@ -90,16 +90,18 @@ $(function() {
 	<div id="left">
 		<div class="container">
 
-			<a href="index.php"><< BACK</a><br /><br />
+			<a href="index.php" class="button">« back</a><br /><br />
 			<table id="data" cellpading=0 cellspacing=0>
-				<tr><th>Categoria</th><td><? echo $glifo['categoria']?></td></tr>
-				<tr><th>Subcategoría</th><td><? echo $glifo['subcategoria']?></td></tr>
-				<tr><th>Nombre</th><td><? echo $glifo['nombre']?></td></tr>
-				<tr><th>Char</th><td><? echo uni($glifo['char'])?></td></tr>
+				<tr><th>Category</th><td><? echo $glifo['categoria']?></td></tr>
+				<tr><th>Subcategory</th><td><? echo $glifo['subcategoria']?></td></tr>
+				<tr><th>Name</th><td><? echo $glifo['nombre']?></td></tr>
+				<tr><th>Character</th><td><? echo uni($glifo['char'])?></td></tr>
 				<tr><th>Unicode</th><td><? echo $glifo['char']?></td></tr>
+
+				<tr><th colspan="2">Description</th></tr>
+				<tr><td colspan="2"><? echo $glifo['descripcion']?></td></tr>
 			</table>
-			<h3>Descripcion</h3>
-			<? echo $glifo['descripcion']?>
+
 
 		</div>
 	</div>
