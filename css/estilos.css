@@ -22,7 +22,6 @@ body {
     color: #fff;
 }
 
-
 .header p {
     margin: 0;
 }
@@ -160,6 +159,9 @@ h2 {
     width: auto;
     height: auto;
     border-right: 1px solid #fff;
+    text-align: center;
+    margin: 10px 0;
+    padding: 0 3px;
 }
 
 .menu .char {
