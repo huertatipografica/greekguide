@@ -1,14 +1,20 @@
 <?php
 header("Content-type: text/html; charset=utf-8"); // UTF 8
 include('_functions.php');
+include('fonts_list.php');
+
 ?>
 <!DOCTYPE html>
 <html>
 <head>
+
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="author" content="Deva">
 	<title>GreekGuide</title>
 	<link type="text/css" href="css/estilos.css" rel="stylesheet" charset="utf-8">
+	<style>
+	<? echo $css?>
+	</style>
 </head>
 
 <body class="signos">
