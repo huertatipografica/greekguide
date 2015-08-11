@@ -6,6 +6,9 @@ $fuentes2=array();
 
 #lista de fuentes
 
+// Empty variables to start
+$css = '';
+
 if ($handle = opendir($dir)) {
     /* This is the correct way to loop over the directory. */
     while (false !== ($entry = readdir($handle))) {

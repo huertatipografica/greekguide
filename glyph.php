@@ -8,6 +8,11 @@ $glifo = $signo[$nombre];
 $char = uni($glifo['char']);
 $fonts = array_merge($fuentes2, $fuentes);
 
+// Empty variables to start
+$thumbsBig = '';
+$thumbsWord = '';
+$textoPrueba = '';
+
 foreach ($fonts as $fuente){
 	$nombre_fuente=substr($fuente, 0, -4);
 	$thumbsBig.='<div class="thumbBig" style="font-family:\''.$nombre_fuente.'\', AdobeBlank">'.$char.'<label>'.$nombre_fuente.'</label></div>'."\n";
