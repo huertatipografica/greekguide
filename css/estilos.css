@@ -122,7 +122,6 @@ h2 {
 .thumbs label,
 .thumbWord label {
     color: #666;
-    font-family: "Lucida Grande", "Lucida Sans Unicode", arial, sans-serif !important;
     font-size: 10px;
     line-height: 10px;
     font-style: normal;
@@ -165,7 +164,7 @@ h2 {
 }
 
 .menu .char {
-    font-family: 'GentiumPlus-R', Helvetica, arial, sans-serif;
+    font-family: 'SBL_grk', 'GentiumPlus-R', serif, 'UnicodeFallback';
     font-size: 120px;
     line-height: 150px;
 }
@@ -193,6 +192,13 @@ h2 {
 @font-face {
     font-family: 'UnicodeFallback';
     src: url('UnicodeBMPFallback.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AdobeBlank';
+    src: url('AdobeBlank.ttf');
     font-weight: normal;
     font-style: normal;
 }
