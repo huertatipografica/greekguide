@@ -9,7 +9,6 @@ include('fonts_list.php');
 <head>
 
 	<?php include 'meta.php'; ?>
-	<meta name="author" content="Deva">
 	<title>GreekGuide</title>
 	<link type="text/css" href="css/estilos.css" rel="stylesheet" charset="utf-8">
 
