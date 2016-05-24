@@ -8,10 +8,11 @@ include('fonts_list.php');
 <html>
 <head>
 
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<?php include 'meta.php'; ?>
 	<meta name="author" content="Deva">
 	<title>GreekGuide</title>
 	<link type="text/css" href="css/estilos.css" rel="stylesheet" charset="utf-8">
+
 	<style>
 	<? echo $css?>
 	</style>
