@@ -25,19 +25,17 @@ $words = explode(PHP_EOL, file_get_contents("$script-dictionary.txt"));
 #busca signo
 $wordlist=array();
 $uppercase = ($glifo['subcategoria'] == 'Uppercase') ? true : false;
-
-foreach($words as $word){
-	if ($uppercase) {
+if ($uppercase) {
 		$char = mb_convert_case($char, MB_CASE_LOWER, 'UTF-8');
 	}
+
+foreach($words as $word){
 	$pos = strpos($word, strtolower($char));
 	if ($pos == true) {
 		if ($uppercase) {
-			$word = mb_convert_case($word, MB_CASE_UPPER, 'UTF-8');
-			array_push($wordlist, strtoupper($word));
+			array_push($wordlist, $word);
 		}
 		array_push($wordlist, $word);
-
 	}
 }
 
@@ -46,6 +44,10 @@ for($i=0;$i<100;$i++){
 	$index=rand(0,(count($wordlist)-1));
 	$textoPrueba.=$wordlist[$index].' ';
 }
+
+if ($uppercase) {
+		$textoPrueba = mb_convert_case($textoPrueba, MB_CASE_UPPER, 'UTF-8');
+	}
 
 ?>
 <!DOCTYPE html>
