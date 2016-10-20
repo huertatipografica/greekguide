@@ -24,10 +24,20 @@ $words = explode(PHP_EOL, file_get_contents("$script-dictionary.txt"));
 
 #busca signo
 $wordlist=array();
+$uppercase = ($glifo['subcategoria'] == 'Uppercase') ? true : false;
+
 foreach($words as $word){
-	$pos = strpos($word, $char);
+	if ($uppercase) {
+		$char = mb_convert_case($char, MB_CASE_LOWER, 'UTF-8');
+	}
+	$pos = strpos($word, strtolower($char));
 	if ($pos == true) {
+		if ($uppercase) {
+			$word = mb_convert_case($word, MB_CASE_UPPER, 'UTF-8');
+			array_push($wordlist, strtoupper($word));
+		}
 		array_push($wordlist, $word);
+
 	}
 }
 
