@@ -1,4 +1,4 @@
-<?
+<?php
 $dir='fonts';
 $dir2='fonts/test';
 $fuentes=array();

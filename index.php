@@ -13,7 +13,7 @@ include('fonts_list.php');
 	<link type="text/css" href="css/estilos.css" rel="stylesheet" charset="utf-8">
 
 	<style>
-	<? echo $css?>
+	<?php echo $css?>
 	</style>
 </head>
 
@@ -25,7 +25,7 @@ include('fonts_list.php');
 	</div>
 
 	<div class="menu">
-		<?
+		<?php
 		foreach ($signo as $glifo){
 			if($glifo['char']!='None'){
 			echo '<a href="glyph.php?nombre='.$glifo['nombre'].'" title="'.$glifo['nombre'].'"><span class="char">'.uni($glifo['char']).'</span><span class="nombre">'.$glifo['nombre'].'</span></a>'."\n";
