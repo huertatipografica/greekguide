@@ -40,10 +40,11 @@ foreach($words as $word){
 }
 
 #arma palabras aleatorias hasta 50
-for($i=0;$i<100;$i++){
+for($i=0;$i<10;$i++){
 	$index=rand(0,(count($wordlist)-1));
 	$textoPrueba.=$wordlist[$index].' ';
 }
+// $textoPrueba='NaN';
 
 if ($uppercase) {
 		$textoPrueba = mb_convert_case($textoPrueba, MB_CASE_UPPER, 'UTF-8');
@@ -54,9 +55,9 @@ if ($uppercase) {
 <html>
 <head>
 <?php include 'meta.php'; ?>
-<title>GreekGuide- <? echo $glifo['nombre']?></title>
+<title>GreekGuide- <?php echo $glifo['nombre'] ?></title>
 <style>
-<? echo $css?>
+<?php echo $css?>
 </style>
 <link type="text/css" href="css/estilos.css" rel="stylesheet" charset="utf-8">
 <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
@@ -97,20 +98,19 @@ $(function() {
 </head>
 
 <body>
-
 	<div id="left">
 		<div class="container">
 
 			<a href="index.php" class="button">« back</a><br /><br />
 			<table id="data" cellpading=0 cellspacing=0>
-				<tr><th>Category</th><td><? echo $glifo['categoria']?></td></tr>
-				<tr><th>Subcategory</th><td><? echo $glifo['subcategoria']?></td></tr>
-				<tr><th>Name</th><td><? echo $glifo['nombre']?></td></tr>
-				<tr><th>Character</th><td><? echo uni($glifo['char'])?></td></tr>
-				<tr><th>Unicode</th><td><? echo $glifo['char']?></td></tr>
+				<tr><th>Category</th><td><?php echo $glifo['categoria']?></td></tr>
+				<tr><th>Subcategory</th><td><?php echo $glifo['subcategoria']?></td></tr>
+				<tr><th>Name</th><td><?php echo $glifo['nombre']?></td></tr>
+				<tr><th>Character</th><td><?php echo uni($glifo['char'])?></td></tr>
+				<tr><th>Unicode</th><td><?php echo $glifo['char']?></td></tr>
 
 				<tr><th colspan="2">Description</th></tr>
-				<tr><td colspan="2"><? echo $glifo['descripcion']?></td></tr>
+				<tr><td colspan="2"><?php echo $glifo['descripcion']?></td></tr>
 			</table>
 
 
@@ -120,14 +120,14 @@ $(function() {
 	<div id="main">
 		<div class="container">
 
-			<h2><? echo $glifo['nombre'] ?></h2>
+			<h2><?php echo $glifo['nombre'] ?></h2>
 
 			<div class="thumbs">
-				<? echo $thumbsBig ?>
+				<?php echo $thumbsBig ?>
 			</div>
 
 			<div id="inputtext">
-				Change preview: <input id="slide" type="text" value="<? echo $char.'αεηιμρagnv' ?>"
+				Change preview: <input id="slide" type="text" value="<?php echo $char.'αεηιμρagnv' ?>"
 				onchange="updateText(this.value);" />
 			</div>
 
@@ -135,15 +135,15 @@ $(function() {
 			<input type="text" id="font_size" style="border:0; color:#222; font-weight:bold; vertical-align: top">
 
 			<div class="thumbs">
-				<? echo $thumbsWord ?>
+				<?php echo $thumbsWord ?>
 			</div>
 
-			<h2>Words containing <? echo $glifo['nombre'] ?></h2>
-			<p><? echo 'Mostrando 100 de '.count($wordlist).' palabras encontradas. ('.count($words).' total)'?></p>
+			<h2>Words containing <?php echo $glifo['nombre'] ?></h2>
+			<p><?php echo 'Mostrando 100 de '.count($wordlist).' palabras encontradas. ('.count($words).' total)'?></p>
 
 			<select id="preview_font" onchange="setfont();">
 				<option value="">Default</option>
-				<?
+				<?php
 				foreach ($fonts as $fuente) {
 					$nombre_fuente=substr($fuente, 0, -4);
 					echo '<option value="\''.$nombre_fuente.'\',UnicodeFallback">'.$nombre_fuente.'</option>';
@@ -155,7 +155,7 @@ $(function() {
 			<input type="text" id="font_sizeb" style="border:0; color:#222; font-weight:bold;">
 
 			<div class="contexto" id="contexto" contenteditable="true">
-				<? echo $textoPrueba?>
+				<?php echo $textoPrueba?>
 			</div>
 
 		</div>

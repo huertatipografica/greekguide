@@ -25,7 +25,7 @@ Developed by [Andrés Torresi](mailto:andres@huertatipografica.com) and [Juan Pa
 
 ### License
 
-Copyright 2015 Huerta Tupográfica (@huertatipo).
+Copyright 2015 Huerta Tipográfica (@huertatipo).
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
